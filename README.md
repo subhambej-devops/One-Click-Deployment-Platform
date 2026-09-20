@@ -1,6 +1,6 @@
 # 🚀 CI/CD Pipeline for Full-Stack Application
 
-[![CI/CD Pipeline](https://img.shields.io/badge/CI%2FCD-Pipeline-blue)](https://github.com/your-org/cicd-demo-app/actions)
+[![CI/CD Pipeline](https://img.shields.io/badge/CI%2FCD-Pipeline-blue)](https://github.com/subhambej-devops/One-Click-Deployment-Platform/actions)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS-326CE5?logo=kubernetes)](https://kubernetes.io/)
 [![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform)](https://www.terraform.io/)
@@ -136,8 +136,8 @@ cicd-pipeline-project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-org/cicd-demo-app.git
-cd cicd-demo-app
+git clone https://github.com/subhambej-devops/One-Click-Deployment-Platform.git
+cd One-Click-Deployment-Platform
 ```
 
 ### 2. Local Development
